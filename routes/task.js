@@ -12,3 +12,4 @@ router.put("/update/:id", updateTask);
 // get all Tasks
 router.get("/all", getAllTasks);
 export default router;
+  
